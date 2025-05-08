@@ -1,3 +1,10 @@
+https://mermaid.js.org/
+---
+https://mermaid.js.org/syntax/examples.html
+---
+https://mermaid.live/edit#pako:eNp1jUtOwzAQhq9izQqktMqzSb1Aoi2cgBVJF1bjPkSTVCYRjyQLpKbqIvcAdUFUHgs2nMMml8FtqNjASJZmPN__TQqjyKeAYTyPbkZTwmJ0MfBCJOvU5R91ySskVmLNt_K9DFGrdZLxim_l4lE88A1qmLrMUO-IP-8X1XEj6O1o1E_5hr-Loi5FgQ5E3hD9xvfziaRyLZYZGrhiKT6RzD3yp-HfaCXRIkNn7pfs-Ftd_sO9Nty5OyZ4TFojwpAopFcmxGoICkzYzAccs4QqEFAWkN0I6c7mQTylAfUAy9Yn7MoDL8xlZkHCyygKDjEWJZMpSP38Wk7JwicxHczIhJFfhIY-Zf0oCWPA1t4AOIVbwLrhtB3TMU1N1TRVNzu6AneAu1a7Y3Rt3bBN3coVuN_fU9u245hdTbVV3VYtw9Hzb_uQu2Y
+---
+
 graph TD;
     A[شروع] --> B(عملیات ۱);
     B --> C{شرط};
