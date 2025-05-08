@@ -1,5 +1,6 @@
 [لینک دانشگاه تهران](https://ut.ac.ir)
-https://ut.ac.ir/assets/d00cc5be/images/logos/loading-logo.png
+
+![نمایش عکس](https://ut.ac.ir/assets/d00cc5be/images/logos/loading-logo.png)
 
 <b>متن پررنگ</b>
 <i>متن مورب</i>
