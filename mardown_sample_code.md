@@ -14,4 +14,4 @@
 
 `نمونه کد`
 
-``` echo linux
+```echo "linux" ```
