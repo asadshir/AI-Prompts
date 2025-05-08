@@ -1,7 +1,7 @@
-----
-***
-[لینک دانشگاه تهران](https://ut.ac.ir)
+---
 
+[لینک دانشگاه تهران](https://ut.ac.ir)
+***
 ![نمایش عکس](https://ut.ac.ir/assets/d00cc5be/images/logos/loading-logo.png)
 
 <b>متن پررنگ</b>
