@@ -2,7 +2,7 @@ Vivo ASUS Laptop K3605VU
 16 GB install RAM
 processor: 13th Gen Intel(R) Core(TM) i7-13700H
 GPU: NVIDIA GeForce RTX 4050 laptop GPU  6GB
-OS: Windows 11 Enterprise
+OS: Windows 11 Enterprise 64 bit
 
 
 
