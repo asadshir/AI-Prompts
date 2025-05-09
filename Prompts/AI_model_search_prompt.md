@@ -33,7 +33,7 @@ I’m looking for a free, open-source AI model that can be run on a regular PC w
 تست نصب پایتون
 python --version
 ساخت محیط مجازی:
-در خط فرمان، ورود به آدرس کلون پروژه:     cd path/to/text-generation-webui
-دستور ساخت محیط مجازی        python -m venv venv
-فعال سازی محیط مجازی           venv\Scripts\activate
-دستور نصب وابستگی ها             pip install -r requirements.txt
+1. در خط فرمان، ورود به آدرس کلون پروژه:     cd path/to/text-generation-webui
+2. دستور ساخت محیط مجازی        python -m venv venv
+3. فعال سازی محیط مجازی           venv\Scripts\activate
+4. دستور نصب وابستگی ها             pip install -r requirements.txt
