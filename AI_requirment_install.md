@@ -77,6 +77,10 @@
 5. **کلون کردن مخزن Web UI مدل سبک و کاربردی**
 
    * دستور:
+   * هوش مصنوعی قاطی کرده و اشتباه داره خلاصه میده. لینک اصلی که انجام دادیم این بود
+git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui .
+
+ولی در خلاصه این لینک رو نشون داده
 
      ```bash
      git clone https://github.com/oobabooga/text-generation-webui.git
